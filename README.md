@@ -19,3 +19,10 @@ Below are some essential tools and platforms that support development, collabora
 
 - **[MLOPs Tool](https://evidentlyai.com/)**  
   MLOPs tool 
+### Git commands:
+``` bash
+git init .
+git add .
+git commit -m "updated"
+git push origin main
+```
