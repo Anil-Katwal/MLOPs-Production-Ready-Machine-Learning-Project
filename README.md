@@ -16,3 +16,6 @@ Below are some essential tools and platforms that support development, collabora
 
 - **[Whimsical](https://whimsical.com/)**  
   A visual workspace for creating flowcharts and diagrams to plan and communicate the ML pipeline architecture.
+
+- **[MLOPs Tool](https://evidentlyai.com/)**  
+  MLOPs tool 
