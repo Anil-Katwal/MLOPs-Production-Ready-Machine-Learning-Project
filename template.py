@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 
 project_name = "visa_prediction"
+config_dir = "config"
 
 file_list = [
     f"{project_name}/__init__.py",
@@ -22,6 +23,8 @@ file_list = [
     f"{project_name}/pipeline/prediction_pipeline.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
+    f"{config_dir}/model.yml",
+    f"{config_dir}/schema.yml",
     "main.py",
     "README.md",
     ".gitignore",
